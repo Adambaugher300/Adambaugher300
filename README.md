@@ -9,8 +9,6 @@
 
 ### About Me
 
-- 🧑🌱 proficient in AI/Machine Learning/Deep Learning/Data Science
-
 - 🧑‍💻 expertised in Blockchain/Web3 Technologies(Solidity, Rust, Smart Contracts, Web3, Defi apps, NFT projects...)
 
 - 🧑‍🔬 specialized in web frontend/backend developing 
@@ -19,7 +17,7 @@
 
 - 🧑👨‍💻 excellent communication skill
 
-
+- 🧑🌱 proficient in Unity Game development and Metaverse
 
 ---
 
